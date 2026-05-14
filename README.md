@@ -1,5 +1,5 @@
 # Data_Process_Pandas
-# 🌿 Análise de Incêndios no Amazonas com Python (Pandas)
+# 🌿 Análise de Incêndios na Amazonas com Python (Pandas)
 
 ## 📊 Descrição do Projeto
 
