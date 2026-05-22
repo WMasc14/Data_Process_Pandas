@@ -89,3 +89,5 @@ print(estados_todos_dezembro)
 #Uma forma mais simples usando pandas:
 #estados = sorted(df[df['month'] == 'Dezembro']['state'].unique())
 #print(estados)
+
+#WMasc14
